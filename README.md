@@ -5,7 +5,7 @@ This  Python library has developed in order to simulate compressible flows in 1D
 2 - Golden-Section Method <br />
 3 - Secant Method <br />
 
-**Fluid_Mechanics_White_7th** script includes series of solutions of examples of Compressible Flow section (Chapter 9) in Frank White's Fluid Mechanics book (7th Edition). <br />
+**Fluid_Mechanics_White_7th** file includes series of solutions of examples of Compressible Flow section (Chapter 9) in Frank White's Fluid Mechanics book (7th Edition). <br />
 
 **shock_location.py** script determines and visualizes shock position in CD Nozzle. <br />
 
