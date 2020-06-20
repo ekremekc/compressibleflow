@@ -7,7 +7,7 @@ This  Python library has developed in order to simulate compressible flows in 1D
 
 **Fluid_Mechanics_White_7th** file includes series of solutions of examples of Compressible Flow section (Chapter 9) in Frank White's Fluid Mechanics book (7th Edition). <br />
 
-**shock_location.py** script determines and visualizes shock position in CD Nozzle. <br />
+**shock_location.py** script determines and visualizes normal shock position in CD Nozzle. <br />
 
 **white_9_4.py** script is a solution of 4th example of Compressible Flow section (Chapter 9) in Frank White's Fluid Mechanics book (7th Edition). <br />
 
